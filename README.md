@@ -34,3 +34,5 @@ Acreditamos que uma boa gestão não precisa ser complexa. O **Scrumban Manager*
 ---
 
 **Scrumban Manager** — Organizando ideias, acelerando resultados. 🚀
+
+**Acesse:** https://scrumban-frontend.vercel.app/login.html
